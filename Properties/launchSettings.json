@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "AppSDKBugs (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "AppSDKBugs (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
